@@ -86,6 +86,11 @@ To run the **Image** or **Video** examples, please download the corresponding de
 * **Video Examples**:
   [https://huggingface.co/datasets/OpenDCAI/dataflow-demo-video](https://huggingface.co/datasets/OpenDCAI/dataflow-demo-video)
 
-After downloading, place the data in the "test_dataflow/example" directory as instructed in each example.
+* **Audio Examples**:
+  [https://huggingface.co/datasets/OpenDCAI/dataflow-demo-audio](https://huggingface.co/datasets/OpenDCAI/dataflow-demo-audio)
 
+* **Image Generation Examples**:
+  [https://huggingface.co/datasets/OpenDCAI/dataflow-demo-image-gen](https://huggingface.co/datasets/OpenDCAI/dataflow-demo-image-gen)
+
+After downloading, place the data in the "test_dataflow/example" directory as instructed in each example.
 
